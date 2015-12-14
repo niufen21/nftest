@@ -1,6 +1,6 @@
 # nftest
 niufentest
 
-niufen
+niufen is niufen
 this is niufen !!!
 my test@!!
