@@ -1,8 +1,5 @@
-# nftest
-niufentest
+git test
 
-niufen is niufen
+this is a QT source code!!!
 
-this is niufen !!!
-
-my test@!!
+niufen!!!
